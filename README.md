@@ -1,2 +1,2 @@
 # cadcam
-Soldworks // CADCAM
+Solidworks // CADCAM
